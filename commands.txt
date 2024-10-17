@@ -1,0 +1,5 @@
+1. chmod +x *
+2. ./install.sh
+3. chmod +x *
+4. pip install telebot
+
